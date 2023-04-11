@@ -1,4 +1,5 @@
 import Homepage from "./Homepage";
 import Coinpage from "./Coinpage";
+import NotFound from "./NotFound";
 
-export { Coinpage, Homepage };
+export { Coinpage, Homepage ,NotFound};

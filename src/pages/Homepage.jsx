@@ -1,5 +1,10 @@
-import React from "react";
+import { Banner, CoinsTable } from "../components";
 
 export default function Homepage() {
-  return <div>Homepage</div>;
+  return (
+    <>
+      <Banner />
+      <CoinsTable />
+    </>
+  );
 }
